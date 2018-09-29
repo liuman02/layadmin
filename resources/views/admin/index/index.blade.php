@@ -467,9 +467,8 @@
 
                                 <div class="layui-btn-container">
 
-                                    <a href="http://www.layui.com/admin/" target="_blank" class="layui-btn layui-btn-danger">获取授权</a>
-
-                                    <a href="http://fly.layui.com/download/layuiAdmin/" target="_blank" class="layui-btn">立即下载</a>
+                                    <a href="https://www.layui.com/doc/" target="_blank" class="layui-btn layui-btn-danger">Layui文档</a>
+                                    <a href="https://fly.layui.com/" target="_blank" class="layui-btn" >Fly社区</a>
 
                                 </div>
 
@@ -545,7 +544,7 @@
 
             <div class="layui-card">
 
-                <div class="layui-card-header">产品动态</div>
+                <div class="layui-card-header">系统动态</div>
 
                 <div class="layui-card-body">
 
@@ -553,11 +552,11 @@
 
                         <div carousel-item>
 
-                            <div><a href="http://fly.layui.com/docs/2/" target="_blank" class="layui-bg-red">layuiAdmin 快速上手文档</a></div>
+                            <div><a href="#" target="_blank" class="layui-bg-red">动态内容一</a></div>
 
-                            <div><a href="http://fly.layui.com/vipclub/list/layuiadmin/" target="_blank" class="layui-bg-green">layuiAdmin 会员讨论专区</a></div>
+                            <div><a href="#" target="_blank" class="layui-bg-green">动态内容二</a></div>
 
-                            <div><a href="http://www.layui.com/admin/#get" target="_blank" class="layui-bg-blue">获得 layui 官方后台模板系统</a></div>
+                            <div><a href="#" target="_blank" class="layui-bg-blue">动态内容三</a></div>
 
                         </div>
 
