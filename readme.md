@@ -7,4 +7,4 @@
 - php artisan migrate
 - php artisan db:seed
 - php artisan key:generate
-- 登录后台：host/admin   帐号：root  密码：123456
+- 登录后台：host/admin   帐号：admin  密码：123456
