@@ -33,7 +33,7 @@ class UserTableSeeder extends Seeder
 
         //角色
         $role = \App\Models\Role::create([
-            'name' => 'root',
+            'name' => 'admin',
             'display_name' => '超级管理员'
         ]);
 
