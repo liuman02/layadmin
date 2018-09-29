@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="/static/home/layui/css/layui.css">
     <link rel="stylesheet" href="/static/home/css/main.css">
     <meta name="csrf-token" content="{{ csrf_token() }}">
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <script src="/static/home/js/jquery.min.js"  type="text/javascript"></script>
     <script src="/static/home/layui/layui.all.js"  type="text/javascript"></script>
 </head>
